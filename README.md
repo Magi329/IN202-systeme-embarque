@@ -1,6 +1,3 @@
-# IN202-systeme-embarque
-This is an arduino package designed to control light by means of a button
-
 # Arduino Button and Dimmable LED Project
 
 This Arduino project allows you to control the intensity and behavior of an LED using a button. The program can detect short, long, and very long presses from the button, providing different functionalities for each type of press. The LED can switch between an intensity decrease mode and an intensity increase mode, and it can also blink when a very long press is detected.
